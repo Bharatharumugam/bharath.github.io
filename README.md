@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Bharathkumar Arumugam</h1>
+<h1 align="left">Hi 👋, I'm Bharathkumar Arumugam</h1>
 
  <div style="display: inline-block;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=91ACF7&multiline=true&width=435&height=120&lines=%E2%98%81%EF%B8%8F+AWS+Cloud+Enthusiast;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+6%2B+Years+Experience+in+IT;%F0%9F%94%8D+Inquisitive+%26+Curious;%F0%9F%94%A5+Self-motivated" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=87F79A&multiline=true&width=435&height=120&lines=%E2%98%81%EF%B8%8F+AWS+Cloud+Enthusiast;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+6%2B+Years+Experience+in+IT;%F0%9F%94%8D+Inquisitive+%26+Curious;%F0%9F%94%A5+Self-motivated" alt="Typing SVG" /></a>
  <span style="display: flex; justify-content: center; align-items: center;">
-      <img align='right' src="img/developer.gif" width='30%'/>
+      <img align='right' src="https://tenor.com/view/programmer-gif-19019116" width='30%'/>
   <span>
   </div>
 
